@@ -1,0 +1,81 @@
+html {
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+
+body {
+	background-image: url(img/bgq.png);
+	background-size: 3rem;
+	height: 100vh;
+}
+
+header {
+	padding: 1rem 2rem;
+	margin: 2rem 9rem;
+	border: solid 5px;
+	border-color: #00ff6a;
+	background-color: #cfc;
+}
+
+h1 {
+	margin-bottom: 2rem;
+}
+
+main {
+	border: solid 5px;
+	border-color: #00ff6a;
+	background-color: #cfc;
+	margin: 3rem 9rem;
+	
+}
+
+.mainMarquee {
+	color: #000000;
+	background-color: #ccffcc;	
+	font-size: 20px;
+	line-height: 70px;
+	border: solid 3px;
+	border-color: #00ff6a;
+	margin: 1rem 3rem;
+}
+
+p {
+	margin: 0;
+}
+
+.left-sidebar {
+	max-height: 100%;
+	width: 20%;
+	z-index: 1;
+	border: solid 3px #ff0095;
+	background: #fcf;
+	padding: 1rem 0;
+	margin: 1rem;
+}
+
+.underconstruction {
+	margin: 2rem;
+}
+
+footer {
+	font-family: serif;
+	color: #fff;
+	margin: 1rem;
+}
+
+figure {
+	display: flex;
+	align-items: center;
+}
+
+.icon {
+	height: 15rem;
+}
+
+figcaption {
+	margin: 1rem;
+	}
+	
+.about-page {
+	padding: 1rem;
+}
